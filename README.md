@@ -51,19 +51,7 @@ currency-converter/
 
 No installation or build step is needed.
 
-1. **Clone the repository**
 
-```bash
-   git clone <your-repository-url>
-```
-
-2. **Open the folder**
-
-```bash
-   cd currency-converter
-```
-
-3. **Run it** — simply open `index.html` in your browser.
 
 > **Note:** An internet connection is required to fetch live exchange rates and flag images.
 
