@@ -20,12 +20,12 @@ Currency API by fawazahmed0 (via jsDelivr CDN)	Live exchange rates	Free, no rate
 FlagsAPI	Country flag images	Free, no key
 Font Awesome (via cdnjs)	Swap icon	Free
 📁 Project Structure
-currency-converter/
-├── index.html    # Page structure
-├── style.css     # Styling
-├── code.js       # Currency code → country code mapping
-├── app.js        # App logic (fetch rates, swap, update flags)
-└── README.md
+currency-converter:
+ index.html    # Page structure
+ style.css     # Styling
+ code.js       # Currency code → country code mapping
+ app.js        # App logic (fetch rates, swap, update flags)
+ README.md
 🚀 Getting Started
 
 No installation or build step is needed.
